@@ -1,5 +1,8 @@
 # Rotoforge README
 
+Rotoforge software is licensed under the [AGPL-V3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+Rotoforge hardware is licensed under the [CERN Open Hardware License-strong](https://cern-ohl.web.cern.ch/)
+
 There is a video assembly guide for this printer modification [here](https://www.youtube.com/watch?v=yMjR5zOKrdI&t=20s&ab_channel=Rotoforge)
 There are ongoing blogs and technical details on development of the hardware, physics and materials science involved in this project [here](https://dailyrotoforge.blogspot.com/)
 
