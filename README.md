@@ -1,6 +1,7 @@
 # Rotoforge README
 
 Rotoforge software is licensed under the [AGPL-V3](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
 Rotoforge hardware is licensed under the [CERN Open Hardware License-strong](https://cern-ohl.web.cern.ch/)
 
 There is a video assembly guide for this printer modification [here](https://www.youtube.com/watch?v=yMjR5zOKrdI&t=20s&ab_channel=Rotoforge)
@@ -36,7 +37,7 @@ A ESC for the BLDC (An engine speed controller, to facilitate control of the BLD
 A DC benchtop power supply, or power from the printer platform you are using(to power the BLDC and perhaps the other components)
 A buck converter to provide the 11 volts the BLDC requires
 A control board for the 3D printer / CNC frame you have selected. (The parts are made for the Ender 3 right now, but can be adapted to fit almost anything)
-**A dedicated all in one, tunable power converter of ~200 watt capability, with an integrated ESC and PWM controll interface for manual tuning and connection to existing PWM control signals available on 3D printer control boards would be of value here...**
+**A dedicated all in one, tunable power converter of ~200 watt capability, with an integrated ESC and PWM control interface for manual tuning and connection to existing PWM control signals available on 3D printer control boards would be of value here...**
 
 
 ## Software
