@@ -14,8 +14,11 @@ We also have a [youtube channel](https://www.youtube.com/channel/UCBE1bfTLnz7WSu
 
 If you want regular updates on progress from Michael, he has a [blog](https://dailyrotoforge.blogspot.com/) he updates periodically. 
 
-For more active discussions we have a discord channel and a subreddit. 
+For more active discussions we have a [discord channel](https://discord.gg/T6tJYQXE26) and a subreddit. 
 
+for proper data storage on feeds and speeds and other printing and deposition parameters as well as in process data storage we have a [zenodo repository:](https://zenodo.org/records/10365783)
+
+and we are occasionally active on the GOSH [community forums:](https://forum.openhardware.science/t/rotoforge-an-affordable-open-source-multimaterial-3d-printer-for-printing-metal-plastic-and-ceramics-on-the-home-desktop/4570/11)
 
 # Files
 
