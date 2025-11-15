@@ -40,6 +40,8 @@ A >800 watt flex shaft grinder(sometimes called a "rotary tool" or "flexshaft di
 ## Software
 There is presently only simple demo software for Rotoforge, as it runs on the motion control code and firmware of a typical FDM machine. All you will need to do to start exploring is install the mechanical and electronic parts, and use your slicer of choice (or use my provided python g-code generator) to adjust your feeds and speeds to suit the requirements of printing metals, plastics and potentially ceramics of your choice. **There is currently very little information in the wild on what feeds and speeds will work so this is a big point of ongoing exploration and where almost anyone could help!**  
 
+## The Future
+The printer only drives in straight lines in -X direction (it has to reset after every line to build thickness in Z) and can print while drifting at up to ~+-30 degree angles in the  direction right now. Typical deposition rates are 4-12 mm^3/s in this mode. But soon with the addition of a 4th axis and closed loop spindle and deposition temperature controls we will be printing ironclad boats, rocket, and car engines, robot, bicycle and car parts, at 2-4X faster in strong aluminum, copper, steel, and with your help beyond!
 
 Rotoforge software is licensed under the [AGPL-V3](https://www.gnu.org/licenses/agpl-3.0.en.html)
 
