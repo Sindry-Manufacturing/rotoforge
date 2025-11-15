@@ -1,7 +1,9 @@
 # Rotoforge README
+![picture of first working iteration of Rotoforge to print a 10 mm tall wall with Al1100 wire]()
+
 
 This is  **Rotoforge**, a 3D printer that uses continuous [friction welding](https://en.wikipedia.org/wiki/Friction_welding) to print metals, plastics and ceramics heterogeneously. 
-If a wire is fed into the contact patch of a [wheel](https://en.wikipedia.org/wiki/Simple_machine) which is spinning fast enough and with sufficient torque, the wire will heat up due to [friction](https://en.wikipedia.org/wiki/Friction), and become more flowable(see [thixotropy](https://en.wikipedia.org/wiki/Thixotropy)) due to plastic shear(see [flow stress](https://en.wikipedia.org/wiki/Flow_stress) and the [Zener-Hollomon Parameter](https://en.wikipedia.org/wiki/Zener%E2%80%93Hollomon_parameter)). 
+If a wire is fed into the contact patch of a [wheel](https://en.wikipedia.org/wiki/Wheel_and_axle) which is spinning fast enough and with sufficient torque, the wire will heat up due to [friction](https://en.wikipedia.org/wiki/Friction), and become more flowable(see [thixotropy](https://en.wikipedia.org/wiki/Thixotropy)) due to plastic shear(see [flow stress](https://en.wikipedia.org/wiki/Flow_stress) and the [Zener-Hollomon Parameter](https://en.wikipedia.org/wiki/Zener%E2%80%93Hollomon_parameter)). 
 
 Under these conditions, even materials like aluminum, copper, steel, glass, and high grade engineering plastics will become extremely fluid (without melting) and bond (given the correct contact and mixing conditions) at the contact patch, in air, without a [shield gas](https://en.wikipedia.org/wiki/Shielding_gas)!, at relatively low temperatures  and pressures. This allows relatively low force, FDM like printing of these materials on a standard 3D printer, given a way to feed wire, and a wheel with adequate speed and torque to keep the material flowing under the chosen RPM and feed rate conditions. 
 This printing process, like [forging](https://en.wikipedia.org/wiki/Forging), can yield material which is stronger as printed, than the initial feedstock. 
