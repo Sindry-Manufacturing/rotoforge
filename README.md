@@ -1,5 +1,5 @@
 # Rotoforge README
-![picture of first working iteration of Rotoforge to print a 10 mm tall wall with Al1100 wire]()
+![picture of first working iteration of Rotoforge to print a 10 mm tall wall with Al1100 wire](https://github.com/Sindry-Manufacturing/rotoforge/blob/4d83dadd1b250bc74a4e3fa7a5a5383b4bb77142/docs/img/Screenshot%202025-11-15%20133716.png)
 
 
 This is  **Rotoforge**, a 3D printer that uses continuous [friction welding](https://en.wikipedia.org/wiki/Friction_welding) to print metals, plastics and ceramics heterogeneously. 
