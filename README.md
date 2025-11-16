@@ -26,10 +26,14 @@ and we are occasionally active on the GOSH [community forums:](https://forum.ope
 # Files
 
 Included in this Rotoforge repository are:
-a bill of materials
-guidelines for contributing
-Documentation files to get the new user started and provide some basic guidance for troubleshooting
-Source files, including complete CAD data for the mechanical parts, and electronics and source code to build and operate your own Rotoforge on an Ender 3 motion platform.  Principally rotoforge can be built on any motion platform, and more rigidity is better, but not strictly neccessary.
+[a bill of materials](https://github.com/Sindry-Manufacturing/rotoforge/blob/5657fceeaa8cc7267cb5c8fe33cddc3ae800ea73/docs/billsofmaterials),for sourcing your own parts,
+
+[guidelines for contributing](https://github.com/Sindry-Manufacturing/rotoforge/blob/5657fceeaa8cc7267cb5c8fe33cddc3ae800ea73/contributionguidelines.md) for those looking to be part of the community,
+and 
+[Documentation files](https://github.com/Sindry-Manufacturing/rotoforge/blob/5657fceeaa8cc7267cb5c8fe33cddc3ae800ea73/docs) to get the new user/developer started and provide some basic guidance for troubleshooting.
+
+Source files, [including complete CAD data for the mechanical parts](https://github.com/Sindry-Manufacturing/rotoforge/blob/5657fceeaa8cc7267cb5c8fe33cddc3ae800ea73/src/parts/CAD), and electronics and source code to build and operate your own Rotoforge on an Ender 3 motion platform.  Principally rotoforge can be built on any motion platform, and more rigidity is better, but not strictly neccessary.
+Also a [small cache of untested](https://github.com/Sindry-Manufacturing/rotoforge/blob/5657fceeaa8cc7267cb5c8fe33cddc3ae800ea73/untested%20designs) desgins in the works by other developers.
 
 ## Mechanical Parts
 Rotoforge is currently just a mechanical and electronics attachment for an FDM printer which enables continuous friction welding as the new mode of energy injection and material deposition. the original mechanical CAD files are native to **Fusion360**. 
@@ -42,7 +46,7 @@ a Variac or other method to control the speed of the flex shaft grinder (not req
 A >800 watt flex shaft grinder(sometimes called a "rotary tool" or "flexshaft die grinder").
 
 ## Software
-There is presently only simple demo software for Rotoforge, as it runs on the motion control code and firmware of a typical FDM machine. All you will need to do to start exploring is install the mechanical and electronic parts, and use your slicer of choice (or use my provided python g-code generator) to adjust your feeds and speeds to suit the requirements of printing metals, plastics and potentially ceramics of your choice. **There is currently very little information in the wild on what feeds and speeds will work so this is a big point of ongoing exploration and where almost anyone could help!**  
+There is presently only [simple demo software for Rotoforge](https://github.com/Sindry-Manufacturing/rotoforge/blob/5657fceeaa8cc7267cb5c8fe33cddc3ae800ea73/src/afrb_playground_gui(2).py), as it runs on the motion control code and firmware of a typical FDM machine. All you will need to do to start exploring is install the mechanical and electronic parts, and use your slicer of choice (or use my provided python g-code generator) to adjust your feeds and speeds to suit the requirements of printing metals, plastics and potentially ceramics of your choice. **There is currently very little information in the wild on what feeds and speeds will work so this is a big point of ongoing exploration and where almost anyone could help!**  
 
 ## The Future
 The printer only drives in straight lines in -X direction (it has to reset after every line to build thickness in Z) and can print while drifting at up to ~+-30 degree angles in the  direction right now. Typical deposition rates are 4-12 mm^3/s in this mode. But soon with the addition of a 4th axis and closed loop spindle and deposition temperature controls we will be printing ironclad boats, rocket, and car engines, robot, bicycle and car parts, at 2-4X faster in strong aluminum, copper, steel, and with your help beyond!
