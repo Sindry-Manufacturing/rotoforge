@@ -4,7 +4,7 @@
 3. source the parts you can buy, build/have built the small number of custom parts (or print them)
 4. assemble the parts
 5. start printing and [experimenting](https://github.com/Sindry-Manufacturing/rotoforge/blob/29fc23453d98a2a53141974132ee8f29831c75b1/docs/getting_started_afrbplayground.md). Get started faster with my [afrb playground script](https://github.com/Sindry-Manufacturing/rotoforge/blob/29fc23453d98a2a53141974132ee8f29831c75b1/src/afrb_playground_gui(2).py)
-6. Share what you learn with all of us on [Discord]((https://discord.gg/T6tJYQXE26))! 
+6. Share what you learn with all of us on [Discord](https://discord.gg/T6tJYQXE26) 
 
 Wondering how you can help? 
 
