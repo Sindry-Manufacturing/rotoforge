@@ -1,4 +1,4 @@
-# AF‑RB Playground — Operator & Developer Getting Started Guide
+# afrb Playground — Operator & Developer Getting Started Guide
 *(for RotoForge / additive friction roll bonding hardware)*
 
 This GUI script generates simple, test‑friendly G‑code patterns (lines, dots, rasters, drifts, overhang tests) for wire‑fed friction roll bonding. It’s not a full slicer—think of it as a safe, inspectable pattern generator you can extend.
