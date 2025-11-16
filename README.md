@@ -10,6 +10,8 @@ This printing process, like [forging](https://en.wikipedia.org/wiki/Forging), ca
 
 For example, when printing with Al1100 from full soft [wire](https://www.mcmaster.com/8904k47/) (yield tensile strength (YTS) ~25 MPa, ultimate tensile strength (UTS) ~90 MPa at 100% elongation) Rotoforge achieves ~90 MPa YTS and ~120 MPa UTS at 33% elongation. a 3.6X and 1.5X improvement respectively at a modest cost in ductility. (approximate equivalent to printing ~H18 temper Al-1100)
 
+Here is what I recommend for [getting started with Rotoforge](https://github.com/Sindry-Manufacturing/rotoforge/blob/7352ae5f737d98ba2852f8fd07662a8f5acfcd73/docs/getting_started/Getting_Started/getting_started.md)
+
 If you would like to download the part files, schematics and documentation including text assembly tutorials and a getting started guide, clone the repository, or download the zipped folder here on github. 
 We also have a [youtube channel](https://www.youtube.com/channel/UCBE1bfTLnz7WSu8h5rG6ihA) and a [read the docs page](https://www.rotoforge.com/introduction/).
 
