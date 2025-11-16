@@ -51,3 +51,7 @@ Rotoforge hardware is licensed under the [CERN Open Hardware License-strong](htt
 
 There is a video assembly guide for this printer modification [here](https://www.youtube.com/watch?v=yMjR5zOKrdI&t=20s&ab_channel=Rotoforge)
 There are ongoing blogs and technical details on development of the hardware, physics and materials science involved in this project [here](https://dailyrotoforge.blogspot.com/)
+
+## Safety
+**This printer mod is LOUD and can create high speed flying debris (the wheel at full speed stores as much energy as a .357 magnum bullet). Wear eye/face/body/ear protection while the printer is in operation. If you choose not to do this, I would recommend enclosing the printer to protect you and your property and family.  If you choose to operate the printer without these safety measures, you do so at your own risk.**
+
